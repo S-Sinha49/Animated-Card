@@ -11,14 +11,15 @@ body {
   
   /* styling for card  */
   .card {
+    border-radius: 22px;
     padding: 50px 0 65px;
     margin-bottom: 30px;
     background-color: #68c38c;
     text-align: center;
     overflow: hidden;
     position: relative;
-    box-shadow: 20px 20px 42px #d0d0d0, -20px -20px 42px #ffffff;
-    width: 20rem;
+    box-shadow: 20px 40px 50px #eee9a9, -20px -20px 42px #e6ca70;
+    width: 21rem
   }
   
   /* porfile image section  */
